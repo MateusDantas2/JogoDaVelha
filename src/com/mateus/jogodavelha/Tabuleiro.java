@@ -2,7 +2,6 @@ package com.mateus.jogodavelha;
 
 /**
  * Matriz que representa o jogo
- * 
  * @author Mateus Dantas
  *
  */

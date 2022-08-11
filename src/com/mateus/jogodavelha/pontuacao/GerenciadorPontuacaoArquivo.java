@@ -9,6 +9,12 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Interface utilizada para gerenciar a pontuação. As classes que implementam essa interface
+ * devem implementar a lógica de como gravar e ler a pontuação.
+ * @author Mateus Dantas
+ *
+ */
 public class GerenciadorPontuacaoArquivo implements GerenciadorPontuacao {
 	
 	private static final String ARQUIVO_PONTUACAO = "pontuacao.txt";

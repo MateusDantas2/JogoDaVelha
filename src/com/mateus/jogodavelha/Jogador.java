@@ -2,6 +2,11 @@ package com.mateus.jogodavelha;
 
 import com.mateus.jogodavelha.io.Console;
 
+/**
+ * Representa um jogador do jogo da velha
+ * @author Mateus Dantas
+ *
+ */
 public class Jogador {
 	
 	private String nome;
